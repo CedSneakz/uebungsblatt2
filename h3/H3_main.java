@@ -17,6 +17,6 @@ public class H3_main {
         } else if (!A1 && !A2 && !A3) {
             k = 4;
         }
-       System.out.println(k);
+       
     }
 }
